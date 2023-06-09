@@ -1,0 +1,290 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Josefin Sans', sans-serif;
+}
+body{
+    overflow-x: hidden;
+}
+
+
+#for {
+    font-size: xx-large;
+    text-align: center;
+    margin-right: 170px;
+}
+
+.header {
+    text-decoration: none;
+    padding-top: 50px;
+
+    height: 70vh;
+    width: 100vw;
+    background-color: rgb(232, 215, 218);
+}
+
+.heading {
+    padding: 5px;
+    font-size: 30px;
+}
+
+.navelements {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10;
+    padding-top: 0px;
+}
+
+.navelements li {
+    display: inline-block;
+    margin-right: 10px;
+    font-size: small;
+    margin: 10px;
+}
+
+.image {
+    height: 40vh;
+    width: 100vw;
+}
+
+footer {
+    display: flex;
+}
+
+.text {
+    list-style-type: none;
+}
+
+.left {
+    margin-left: 140px;
+}
+
+.right {
+    margin-left: 750px;
+}
+
+.secondpage {
+    margin-top: 100px;
+    height: 100vh;
+    width: 100vw;
+}
+
+.cmping {
+    margin-top: 130px;
+
+
+}
+
+.cmping img {
+    height: 400px;
+    width: 550px;
+}
+
+.righttext {
+    margin-left: 50px;
+    width: 620px;
+    margin-top: 130px;
+}
+
+#blue {
+    color: #1992c0;
+}
+
+#bold1 {
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+#bold2 {
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.first {
+    margin-top: 20px;
+}
+
+.box1 {
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.one {
+    height: 170px;
+    width: 280px;
+    background-color: #1992c0;
+    border-radius: 10px;
+
+}
+
+.one p {
+    margin-top: 2px;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    justify-content: center;
+}
+
+.one img {
+
+    height: 40px;
+    width: 50px;
+    margin-left: 115px;
+    margin-top: 15px;
+}
+
+.two {
+    height: 180px;
+    width: 300px;
+    background-color: #1992c0;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.two p {
+    margin-top: 2px;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    justify-content: center;
+}
+
+.two img {
+    height: 40px;
+    width: 50px;
+    margin-left: 125px;
+    margin-top: 15px;
+}
+
+.fourthpage {
+    background-color: #1992c0;
+    padding-top: 50px;
+    height: 100vh;
+    width: 100vw;
+    margin-top: 10px;
+}
+
+#bold {
+    color: white;
+    font-weight: bolder;
+    font-size: 35px;
+    text-align: center;
+    padding-top: 150px;
+}
+
+.box {
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 350px;
+    width: 100vw;
+}
+
+.item img {
+    margin: 10px;
+    height: 265px;
+    width: 265px;
+    border-radius: 10px;
+}
+
+.item p {
+    color: white;
+    font-size: large;
+    text-align: center;
+    justify-content: center;
+}
+
+.item img:hover {
+
+    height: 270px;
+    width: 270px;
+    margin: 8px;
+}
+
+#lasttext {
+    color: white;
+    font-weight: bolder;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 70px;
+}
+
+.box2 {
+    /* padding-top: 10px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+    background-color: #c4c4c4;
+}
+
+.oneone {
+    margin-right: 40px;
+}
+
+.oneone img {
+    height: 400px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.boxes {
+    color: white;
+    padding: 6px;
+    background-color: #1992c0;
+    height: 150px;
+    border-radius: 10px;
+}
+#bolder{
+    font-size: 28px;
+}
+
+.boxes p {
+    margin-top: 5px;
+    color: white;
+    font-size: 12px;
+}
+
+.boxes:hover {
+    background-color: #0676a4;
+}
+
+.thirdpage
+{
+    background-color: #1992c0;
+    height:100vh;
+    width: 100vw;
+    
+}
+#tpage
+{
+    padding-top: 50px;
+    text-align: center;
+    font-size: 30px;
+    text-decoration: double;
+
+}
+#t2page
+{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 20px;
+    text-decoration: dotted;
+}
+.anime
+{
+    margin-top: 100px;
+    width: 90%;
+    height: 250px;
+    background-color: #c4c4c4;
+    border-radius: 10px;
+    margin-left:60px;
+}
